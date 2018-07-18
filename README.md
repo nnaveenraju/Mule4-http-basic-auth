@@ -1,7 +1,7 @@
 # Mule4-http-basic-auth
 Mule 4 example Basic Auth
 
-Changes in Mule 4 with beans has changed the way we work with beans inside Mule.
+In Mule 4 working with beans has changed.
 
 This code has a full working copy of the HTTP linstener with basic auth.
 
